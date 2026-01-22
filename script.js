@@ -1,8 +1,9 @@
 function toggleMode() {
+  // faz a troca da classe
   const html = document.documentElement
   html.classList.toggle("light")
 
-  // Pegar a imagrm
+  // Pegar a imagem
   const img = document.querySelector("#profile img")
   // Se contém light mode
   if (html.classList.contains("light")) {
