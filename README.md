@@ -41,9 +41,13 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :book: Conhecimentos
 
 Foi possivel aprender diversos conceitos de programação frontend nesse bootcamp como:
+
 HTML -> Estrutura basica do HTML e tags semânticas (ul e li);  
+
 CSS -> Seletores específicos e universal, reset do navegador, diversos tipos de alinhamento (didplay-flax, display-box, position relative e position absolute), responsividade com Media Queries e animações com KeyFrames;  
+
 JavaScript -> Interatividade da pagina com as funções: documentElement, html.classList, toggle, querySelectos, contains e setAttribute;  
+
 Git e GitHub -> Versionamento local (git init, git add, git status, git commit, git config) e versionamento remoto (git push, git pull, criação de link).  
 
 ## :memo: Licença
