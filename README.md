@@ -36,7 +36,7 @@ Programa de agregação de links para rede sociais ou para uso profissional como
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/K4YZk5akhaj3cs9q4InmYl/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=0-1&p=f&t=ePQ6qjGEyULxBSgG-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :book: Conhecimentos
 
