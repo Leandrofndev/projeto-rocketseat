@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Programa de agregação de links para rede sociais ou para uso profissional como cartão de visitas online.
+Programa de agregação de links para rede sociais ou para uso profissional como cartão de visitas on-line.
 
 ## 🔖 Layout
 
