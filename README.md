@@ -53,3 +53,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Leandro Ferreira :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
+ 
